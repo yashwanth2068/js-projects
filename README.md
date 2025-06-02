@@ -1,1 +1,1 @@
-# js-projects
+# git js-amazon projects
